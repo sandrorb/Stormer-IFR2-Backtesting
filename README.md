@@ -1,6 +1,8 @@
 # Stormer-IFR2-Backtesting
 Programa para MT5 para fazer backtest do operacional IFR2 do Stormer.
-É preciso fazer testes comparativos para se ter certeza de que está funcionando corretamente.
+É preciso fazer testes comparativos para se ter certeza de que está funcionando corretamente. 
+
+Está atualmente sendo revisto.
 
 Sandro Roger Boschetti
 
